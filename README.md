@@ -31,4 +31,6 @@ src/
 .gitignore         - Prevents node_modules and .env from being tracked
 package.json       - Dependencies and npm scripts
 README.md          - Project documentation
+
+
 # Gig-tracker-api

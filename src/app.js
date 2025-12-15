@@ -2,8 +2,9 @@ require('dotenv').config();
 
 const express = require('express');
 const morgan = require('morgan');
-const connectDB = require('./db');
+const connectDB = require('./Config/db');
 const gigRoutes = require('./routes/gigRoutes');
+
 
 const app = express();
 
